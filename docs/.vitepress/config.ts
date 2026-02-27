@@ -23,6 +23,7 @@ export default defineConfig({
             { text: 'Lesson 1: Greeting (Salom berish)', link: '/guide/lesson-1' },
             { text: 'Lesson 2', link: '/guide/lesson-2' },
             { text: 'Lesson 3', link: '/guide/lesson-3' },
+            { text: 'Lesson 4', link: '/guide/lesson-4' },
           ]
         }
       ]
